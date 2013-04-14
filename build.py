@@ -8,7 +8,7 @@ doctype = '<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/
 links = [['index', 'Home'], ['Products', 'Products'], ['Photos', 'Photos'], ['Videos', 'Videos'], ['Contact', 'Contact Us']]
 pageTemplateFile = 'page_template.html'
 photoTemplateFile = 'photo_template.html'
-topDestDir = 'wemc.com_new'+os.sep
+topDestDir = 'gsst.com_new'+os.sep
 photoDestDir = topDestDir+'images'+os.sep
 
 class CommentedTreeBuilder ( ET.XMLTreeBuilder ):
