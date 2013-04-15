@@ -1,26 +1,26 @@
 <photos>
 	<photo>
-		<name>DSC_5487a_900x600</name>
-		<photographer>CatherineFirmbach</photographer>
-		<height>600</height>
-		<width>900</width>
+		<name>IMG_6197_screen</name>
+		<photographer>GeoffSobering</photographer>
+		<height>650</height>
+		<width>867</width>
 		<shortCaption></shortCaption>
-		<caption>Jori Lenon and her bright red <i>Twizzler</i> mast round the windward mark during the 2012 DN North American Championship Regatta on Green Bay.</caption>
+		<caption>Sed iaculis dictum leo, ultrices porttitor quam imperdiet a. Pellentesque quis ultrices massa. </caption>
 	</photo>
 	<photo>
-		<name>NA2012_900x506</name>
-		<photographer>CatherineFirmbach</photographer>
+		<name>IMG_6801_screen</name>
+		<photographer>GeoffSobering</photographer>
 		<height>506</height>
 		<width>900</width>
 		<shortCaption></shortCaption>
-		<caption>Bod Rast rounds the windward mark with his <i>Blackie</i> mast during the 2012 DN North American Championship Regatta on Green Bay.</caption>
+		<caption> Aenean et varius justo. Nam vitae tellus justo. </caption>
 	</photo>
 	<photo>
-		<name>20120107DN19323-X3_650x650</name>
-		<photographer>GretchenDorian</photographer>
+		<name>IMG_3755_650x650</name>
+		<photographer>GeoffSobering</photographer>
 		<height>650</height>
 		<width>650</width>
-		<shortCaption></shortCaption>
-		<caption>Bob Rast sails his <i>Blackie</i> mast at the 2012 DN Western Region Championship Regatta on Green Lake in Minnesota.</caption>
+		<shortCaption>Short Caption Lorem ipsum dolor sit amet</shortCaption>
+		<caption>Aliquam volutpat, risus sed vestibulum tincidunt, metus purus sollicitudin mauris, sed mollis lorem nisi sed nulla.</caption>
 	</photo>
 </photos>
